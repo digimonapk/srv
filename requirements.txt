@@ -1,0 +1,12 @@
+fastapi
+typing
+pydantic
+uvicorn
+requests
+cryptography
+motor
+pydantic
+sqlalchemy 
+psycopg2
+python-multipart
+httpx
